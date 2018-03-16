@@ -1,0 +1,11 @@
+.main{
+    padding:40px; 
+}
+#addButton{
+    margin-top: 10px;
+}
+.content {
+    width: 500px;
+    height: 500px;
+    transform             : translate(90%, 50%);
+  }
